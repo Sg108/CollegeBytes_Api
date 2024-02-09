@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/044c136b-6fab-4322-b22a-bb31548b3dcb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/CollegebytesApi",
+    "appService.deploySubpath": "."
+}
